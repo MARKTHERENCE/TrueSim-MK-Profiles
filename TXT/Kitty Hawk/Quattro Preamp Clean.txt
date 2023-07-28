@@ -7,9 +7,6 @@ t1 8 10 9
 r3 100k 10 0
 r2 1.5k 9 1
 c2 22u 9 1
-pTreble 250k 17 18 2 b
-pMiddle 25k 3 4 1 b
-pBass 1M 2 2 3 a
 c8 22n 6 4
 c7 22n 6 2
 c6 1n 16 17
@@ -18,7 +15,6 @@ r14 1.5k 22 5
 c3 22n 10 11
 r4 100k 11 12
 r5 1M 12 13
-pVolume 1M 13 14 1 a
 c4 220p 13 14
 r6 100k 14 1
 tT 14 16 15
@@ -34,4 +30,8 @@ r13 100k 20 0
 c10 22u 19 1
 r12 1.5k 19 1
 c11 1n 20 21
+pVolume 1M 13 14 1 a
+pTreble 250k 17 18 2 b
+pMiddle 25k 3 4 1 b
+pBass 1M 2 2 3 a
 pMaster 250k 21 22 1 100
