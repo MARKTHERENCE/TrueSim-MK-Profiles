@@ -7,9 +7,6 @@ t1 8 10 9
 r3 100k 10 0
 r2 1.5k 9 1
 c2 22u 9 1
-pMiddle 25k 3 4 1 b
-pBass 1M 2 2 3 a
-pTreble 250k 15 16 2 b
 c8 22n 6 4
 c7 22n 6 2
 c6 1n 14 15
@@ -17,7 +14,6 @@ oO 100 5 1
 r14 1.5k 20 5
 c3 22n 10 11
 r4 100k 11 21
-pCrunch 1M 21 12 1 a
 c4 220p 21 12
 r6 100k 12 1
 tT 12 14 13
@@ -33,4 +29,8 @@ r13 100k 18 0
 c10 22u 17 1
 r12 1.5k 17 1
 c11 1n 18 19
+pCrunch 1M 21 12 1 a
+pTreble 250k 15 16 2 b
+pMiddle 25k 3 4 1 b
+pBass 1M 2 2 3 a
 pMaster 250k 19 20 1 a
