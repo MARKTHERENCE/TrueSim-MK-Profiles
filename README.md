@@ -14,6 +14,7 @@ Refer to the [README.md from the Amplex-MK-Presets]( https://github.com/MARKTHER
 This collection covers a wide range of amplifier types based on gain amount, voicing, etc. This is never set in stone as I may add more amp models at any given time.
 
 ## High Gain
+- Ceriatone Plexi 100 Super Lead Dookie Mod
 - Orange #4 TT15 Jim Root Terror
 
 ## Multi Channel
