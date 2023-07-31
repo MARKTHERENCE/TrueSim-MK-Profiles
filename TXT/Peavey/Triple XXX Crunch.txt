@@ -1,0 +1,62 @@
+# TrueSim circuit
+
+vV 300 0 1
+iI 2 1
+rR 10k 2 3
+cC 39p 3 1
+cC 0.1u 3 4
+rR 470k 4 1
+tT 4 6 5
+rR 1.5k 5 1
+cC 22u 5 1
+rR 150k 6 0
+cC 0.047u 6 7
+rR 220k 7 1
+cC 0.0022u 7 8
+rR 220k 8 1
+rR 220k 8 9
+cC 470p 9 10
+rR 2.2M 10 1
+cC 0.047u 11 12
+rR 1M 12 1
+tT 12 14 13
+rR 1.5k 13 1
+cC 0.47u 13 1
+rR 100k 14 0
+cC 0.001u 14 15
+rR 470k 15 16
+cC 470p 15 16
+rR 470k 16 1
+tT 16 18 17
+rR 1.5k 17 1
+cC 22u 17 1
+rR 150k 18 0
+cC 0.022u 18 19
+rR 680k 19 20
+rR 1M 20 1
+tT 20 22 21
+rR 1.5k 21 1
+cC 22u 21 1
+rR 100k 22 0
+cC 0.022u 22 25
+rR 22k 24 1
+rR 10k 23 27
+cC 100p 28 29
+cC 100p 28 30
+cC 0.0022u 32 33
+cC 0.001u 32 34
+rR 10k 31 1
+rR 240k 30 29
+rR 220k 29 34
+rR 150k 34 33
+rR 100k 35 33
+rR 1M 30 1
+oO 10 30 1
+cC 0.022u 26 24
+rR 47k 25 26
+rR 220k 7 8
+pHair 250k 27 28 31 b
+pBody 250k 27 32 1 b
+pBottom 250k 27 35 1 b
+pVolume 100k 26 23 1 a
+pGain 1M 9 11 1 a
