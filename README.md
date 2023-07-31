@@ -19,6 +19,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 
 ## Multi Channel
 - Kitty Hawk Quattro Preamp
+- Peavey Triple XXX
 
 # Special Thanks
 - [Every person mentioned in the Special Thanks section of the README.md from the Amplex-MK-Presets repo]( https://github.com/MARKTHERENCE/Amplex-MK-Presets/tree/main#special-thanks )
