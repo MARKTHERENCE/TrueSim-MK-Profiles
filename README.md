@@ -13,6 +13,9 @@ Refer to the [README.md from the Amplex-MK-Presets]( https://github.com/MARKTHER
 # List of Amp Models
 This collection covers a wide range of amplifier types based on gain amount, voicing, etc. This is never set in stone as I may add more amp models at any given time.
 
+## Single Channel
+- Marshall Vintage Modern 2266/2466
+
 ## High Gain
 - Ceriatone Plexi 100 Super Lead Dookie Mod
 - Orange #4 TT15 Jim Root Terror
@@ -25,3 +28,4 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - [Every person mentioned in the Special Thanks section of the README.md from the Amplex-MK-Presets repo]( https://github.com/MARKTHERENCE/Amplex-MK-Presets/tree/main#special-thanks )
 - [Heavy metal chainsaw]( https://www.youtube.com/@cmd_f5 ) for helping me catch up with version updates.
 - [Omega Station]( https://www.youtube.com/@OmegaStationMusic/videos ) for sharing the Amplex presets and subsequently making me keep track of TrueSim's development.
+- NaLex for helping out with troubleshooting on the Marshall Vintage Modern circuits
