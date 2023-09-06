@@ -1,5 +1,5 @@
 # TrueSim-MK-Profiles
-Various amp schematics translated into .TXT files, made for the guitar amp sim plugin "[TrueSim]( https://nalexsoftware.blogspot.com/2022/07/truesim-simulator.html )" developed by [NaLex Software]( https://nalexsoft.blogspot.com ).
+Various amp schematics translated into .TXT files, made for the guitar amp sim plugin "[TrueSim]( https://nalexsoftware.blogspot.com/2022/07/truesim-simulator.html )" developed by [NaLex Software]( https://nalexsoftware.blogspot.com ).
 Circuits are made with TrueSimCircuit, potentiometer knobs are rearranged via text editing.
 
 ## IMPORTANT!
