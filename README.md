@@ -15,6 +15,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 
 ## Single Channel
 - Marshall Vintage Modern 2266/2466
+- Trainwreck Liverpool*
 
 ## High Gain
 - Ceriatone Plexi 100 Super Lead Dookie Mod
@@ -24,6 +25,8 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Ibanez Thermion TN120
 - Kitty Hawk Quattro Preamp
 - Peavey Triple XXX
+
+* Some amp models might need adjustment from the Input knob for accurate gain levels. Refer to the extra notes in the .txts themselves.
 
 # Special Thanks
 - [Every person mentioned in the Special Thanks section of the README.md from the Amplex-MK-Presets repo]( https://github.com/MARKTHERENCE/Amplex-MK-Presets/tree/main#special-thanks )
