@@ -1,0 +1,29 @@
+# TrueSim circuit
+
+# NOTE: Set input knob to 3 o'clock (8) for accurate gain.
+
+vV 244 0 1
+iI 2 1
+rR 1M 2 1
+tT 2 4 3
+rR 1.5k 3 1
+cC 22u 3 1
+rR 100k 4 0
+rR 100k 4 6
+cC 50p 4 5
+cC 0.022u 6 7
+cC 0.022u 6 14
+pVolume 1M 8 9 1 a
+cC 100p 8 9
+pTreble 1M 5 8 7 a
+pMiddle 25k 14 14 1 b
+pBass 250k 7 7 14 b
+rR 820 9 10
+tT 10 12 11
+rR 2.7k 11 1
+cC 22u 11 1
+rR 100k 12 0
+cC 0.001u 12 13
+rR 68k 13 1
+cC 0.001u 12 13
+oO 100 13 1
