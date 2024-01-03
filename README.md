@@ -26,7 +26,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Kitty Hawk Quattro Preamp
 - Peavey Triple XXX
 
-* Some amp models might need adjustment from the Input knob for accurate gain levels. Refer to the extra notes in the .txts themselves.
+*Some amp models might need adjustment from the Input knob for accurate gain levels. Refer to the extra notes in the .txts themselves.
 
 # Special Thanks
 - [Every person mentioned in the Special Thanks section of the README.md from the Amplex-MK-Presets repo]( https://github.com/MARKTHERENCE/Amplex-MK-Presets/tree/main#special-thanks )
