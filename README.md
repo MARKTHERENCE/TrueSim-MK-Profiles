@@ -22,6 +22,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Orange #4 TT15 Jim Root Terror
 
 ## Multi Channel
+- Gibson Super Goldtone GA Series
 - Ibanez Thermion TN120
 - Kitty Hawk Quattro Preamp
 - Peavey Triple XXX
