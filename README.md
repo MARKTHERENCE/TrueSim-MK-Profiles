@@ -25,6 +25,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Gibson Super Goldtone GA Series
 - Ibanez Thermion TN120
 - Kitty Hawk Quattro Preamp
+- Laney Klipp 100
 - Peavey Triple XXX
 
 *Some amp models might need adjustment from the Input knob for accurate gain levels. Refer to the extra notes in the .txts themselves.
