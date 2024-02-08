@@ -1,0 +1,39 @@
+# TrueSim circuit
+
+vV 230 0 1
+iI 24 1
+rR 68k 24 2
+tT 2 4 3
+rR 1.5k 3 1
+cC 25u 3 1
+rR 100k 4 0
+cC 22n 4 13
+tT 14 6 5
+rR 820 5 1
+rR 100k 6 0
+rR 56k 6 9
+cC 250p 6 7
+cC 22n 9 8
+cC 22n 9 10
+oO 100 12 1
+cC 22n 13 16
+tT 16 19 18
+rR 470k 16 17
+rR 470k 21 17
+rR 1.5k 18 17
+rR 10k 17 1
+rR 10k 20 19
+rR 47k 19 0
+rR 22k 19 1
+cC 15u 19 1
+cC 100n 21 1
+cC 100n 20 22
+rR 100k 15 14
+tT 21 20 18
+rR 1M 24 1
+
+pBass 1M 8 11 11 a
+pMiddle 25k 11 10 1 b
+pTreble 250k 7 12 8 b
+pVolume 1M 23 15 1 a
+pKlipp 1M 22 23 13 b
