@@ -32,7 +32,7 @@ rR 100k 16 15
 tT 22 21 19
 cC 100p 24 16
 
-pBass 1M 9 12 12 a
+pBass 1M 9 9 12 a
 pMiddle 25k 12 11 1 b
 pTreble 250k 8 13 9 b
 pVolume 1M 24 16 1 a

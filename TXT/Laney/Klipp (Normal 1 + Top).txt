@@ -19,7 +19,7 @@ oO 100 16 1
 rR 100k 7 8
 cC 100p 6 7
 
-pBass 1M 12 15 15 a
+pBass 1M 12 12 15 a
 pMiddle 25k 15 14 1 b
 pTreble 250k 11 16 12 b
 pVolume 1M 6 7 1 a
