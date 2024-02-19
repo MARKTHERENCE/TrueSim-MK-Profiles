@@ -15,6 +15,8 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 
 ## Single Channel
 - Marshall Vintage Modern 2266/2466
+- Paul P's Bogen CHB-35A Amp Conversion
+- Sovtek MIG-50
 - Trainwreck Liverpool*
 
 ## High Gain
