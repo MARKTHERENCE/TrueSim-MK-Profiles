@@ -1,0 +1,46 @@
+# TrueSim-MK-Profiles, MK50H II
+
+vV 230 0 1
+iI 2 1
+cC 0.033u 2 3
+rR 1M 3 1
+rR 68k 3 4
+tT 4 6 5
+rR 1.5k 5 1
+cC 2.2u 5 1
+rR 180k 6 7
+rR 39k 7 0
+cC 100p 6 5
+cC 0.0047u 6 8
+rR 100k 8 9
+rR 4.7k 9 1
+tT 9 11 10
+rR 1.5k 10 1
+cC 2.2u 10 1
+rR 100k 11 0
+cC 0.022u 11 12
+rR 680k 12 13
+cC 470p 12 13
+pGain 1M 13 14 1 a
+tT 14 16 15
+rR 15k 15 1
+rR 100k 16 0
+cC 0.033u 16 17
+rR 470k 17 18
+cC 470p 17 18
+rR 470k 18 1
+tT 18 20 19
+rR 1.5k 19 1
+rR 220k 20 0
+rR 43k 20 24
+cC 220p 20 21
+rR 100k 21 22
+pTreble 250k 22 27 25 b
+cC 0.1u 24 25
+pBass 1M 25 25 23 a
+cC 0.033u 24 26
+pMiddle 25k 23 26 1 b
+cC 1n 25 1
+rR 470k 27 28
+pVolume 25k 28 28 1 100
+oO 3 28 1

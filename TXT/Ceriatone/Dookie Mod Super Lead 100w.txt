@@ -1,6 +1,6 @@
-# TrueSim circuit
+# TrueSim-MK-Profiles, Dookie Mod Super Lead 100w
 
-vV 500 0 1
+vV 120 0 1
 iI 2 1
 r1 1M 2 1
 r2 47k 2 3
@@ -34,4 +34,4 @@ pMiddle 25k 17 19 1 b
 pTreble 250k 15 20 16 b
 pMaster 1M 20 21 1 a
 pVolume 1M 7 8 1 a
-oO 80 21 1
+oO 10 21 1

@@ -1,4 +1,4 @@
-# TrueSim circuit
+# TrueSim-MK-Profiles, Thermion TN120
 
 vV 250 0 1
 iI 2 1
@@ -29,4 +29,4 @@ pMiddle 25k 14 15 1 b
 cC 680p 10 11
 pTreble 250k 11 20 13 b
 pMaster 1M 20 16 1 a
-oO 40 16 1
+oO 20 16 1

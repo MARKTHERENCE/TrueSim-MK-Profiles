@@ -1,6 +1,6 @@
-# TrueSim circuit
+# TrueSim-MK-Profiles, Super Goldtone GA Series
 
-vV 450 0 1
+vV 230 0 1
 iI 2 1
 rR 33k 3 4
 cC 22n 2 3
@@ -41,7 +41,7 @@ pBass 1M 22 22 25 a
 cC 22n 23 24
 pMiddle 25k 25 24 1 b
 pLevel 1M 26 27 1 a
-oO 70 27 1
+oO 20 27 1
 cC 47p 6 5
 cC 1.5u 5 28
 rR 75k 28 1

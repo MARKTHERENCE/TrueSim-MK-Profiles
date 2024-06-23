@@ -1,6 +1,6 @@
-# TrueSim circuit
+# TrueSim circuit, Triple XXX
 
-vV 300 0 1
+vV 120 0 1
 iI 2 1
 rR 10k 2 3
 cC 39p 3 1
@@ -51,7 +51,7 @@ rR 220k 29 34
 rR 150k 34 33
 rR 100k 35 33
 rR 1M 30 1
-oO 10 30 1
+oO 2 30 1
 cC 0.022u 26 24
 rR 47k 25 26
 rR 220k 7 8

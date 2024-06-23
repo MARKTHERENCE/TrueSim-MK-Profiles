@@ -1,0 +1,44 @@
+# TrueSim circuit, 1690T
+
+vV 115 0 1
+iI 2 1
+cC 0.005u 2 15
+cC 500p 15 1
+rR 3.9k 16 1
+tT 15 3 16
+rR 270k 3 4
+cC 0.01u 14 1
+rR 100k 4 0
+cC 0.01u 21 5
+pVol 500k 5 6 1 b
+cC 0.001u 5 6
+rR 220k 6 13
+pTone 500k 14 14 13 a
+cC 0.05u 4 1
+tT 13 8 7
+rR 2.2k 7 1
+rR 270k 8 0
+cC 0.02u 8 9
+rR 270k 9 10
+rR 4.7k 10 1
+tT 10 12 11
+rR 2.2k 11 1
+rR 270k 12 0
+cC 0.05u 12 9
+rR 270k 9 1
+oO 100 9 1
+rR 470k 15 1
+rR 270k 4 1
+cC 35u 16 1
+cC 500p 1 3
+cC 0.01u 3 17
+cC 500p 17 1
+rR 470k 17 1
+cC 0.001u 17 18
+rR 470k 18 19
+rR 100k 19 1
+tT 19 21 20
+rR 2.2k 20 1
+rR 220k 21 22
+rR 180k 22 1
+rR 270k 22 0

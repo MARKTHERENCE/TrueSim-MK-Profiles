@@ -1,6 +1,6 @@
-# TrueSim circuit
+# TrueSim circuit, Triple XXX
 
-vV 300 0 1
+vV 120 0 1
 iI 2 1
 rR 10k 2 3
 cC 39p 3 1
@@ -12,24 +12,24 @@ cC 22u 5 1
 rR 150k 6 0
 cC 0.047u 6 7
 rR 220k 7 1
-cC 0.047u 14 8
-rR 1M 8 1
-tT 8 10 9
-rR 1.5k 9 1
-cC 0.47u 9 1
-rR 100k 10 0
-cC 0.047u 10 17
-rR 1M 17 1
-oO 50 17 1
-rR 68k 7 13
-cC 270p 7 11
-cC 0.1u 13 12
-cC 0.047u 13 18
-cC 0.015u 18 1
-rR 10k 12 19
-cC 180p 16 14
-rR 470k 15 16
-pHigh 250k 11 15 12 b
-pMid 50k 18 18 1 b
-pLow 250k 19 19 1 a
-pVolume 1M 15 14 1 a
+cC 0.047u 15 16
+rR 1M 16 1
+tT 16 18 17
+rR 1.5k 17 1
+cC 0.47u 17 1
+rR 100k 18 0
+cC 0.047u 18 19
+rR 1M 19 1
+oO 40 19 1
+rR 68k 7 8
+cC 270p 7 12
+cC 0.1u 8 10
+cC 0.047u 8 9
+cC 0.015u 9 1
+rR 10k 10 11
+cC 180p 14 15
+rR 470k 13 14
+pHigh 250k 12 13 10 b
+pMid 50k 9 9 1 b
+pLow 250k 11 11 1 a
+pVolume 1M 13 15 1 a

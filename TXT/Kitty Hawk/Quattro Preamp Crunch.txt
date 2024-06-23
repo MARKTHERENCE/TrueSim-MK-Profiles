@@ -1,4 +1,4 @@
-# TrueSim circuit
+# TrueSim-MK-Profiles, Quattro Preamp
 
 vV 270 0 1
 iI 8 1
@@ -10,7 +10,7 @@ c2 22u 9 1
 c8 22n 6 4
 c7 22n 6 2
 c6 1n 14 15
-oO 100 5 1
+oO 50 5 1
 r14 1.5k 20 5
 c3 22n 10 11
 r4 100k 11 21

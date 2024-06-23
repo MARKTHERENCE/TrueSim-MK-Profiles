@@ -1,4 +1,4 @@
-# TrueSim circuit
+# TrueSim circuit, Klipp
 
 vV 230 0 1
 iI 24 1

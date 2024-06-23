@@ -1,6 +1,6 @@
-# TrueSim circuit
+# TrueSim circuit, Vintage Modern
 
-vV 400 0 1
+vV 250 0 1
 iI 2 1
 rR 2.2M 2 1
 tT 9 11 10
@@ -32,7 +32,7 @@ cC 470p 19 20
 rR 33k 19 23
 cC 22n 23 21
 cC 22n 23 24
-oO 400 26 1
+oO 100 26 1
 rR 220k 25 26
 rR 68k 2 9
 rR 68k 2 3

@@ -1,4 +1,4 @@
-# TrueSim circuit
+# TrueSim circuit, MIG-50
 
 vV 220 0 1
 iI 2 1

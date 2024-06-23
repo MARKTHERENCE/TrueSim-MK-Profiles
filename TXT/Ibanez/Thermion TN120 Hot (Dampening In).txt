@@ -1,4 +1,4 @@
-# TrueSim circuit
+# TrueSim-MK-Profiles, Thermion TN120
 
 vV 250 0 1
 iI 2 1
@@ -50,6 +50,6 @@ cC 3.3n 27 28
 pPresence 50k 28 28 1 b
 rR 750k 27 29
 pMaster 250k 29 30 1 100
-oO 40 30 1
+oO 20 30 1
 rR 3.3M 9 12
 rR 820k 27 29
