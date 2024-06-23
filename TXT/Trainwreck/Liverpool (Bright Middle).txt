@@ -1,8 +1,6 @@
-# TrueSim circuit
+# TrueSim circuit, Liverpool
 
-# NOTE: Set input knob to 3 o'clock (8) for accurate gain.
-
-vV 244 0 1
+vV 331 0 1
 iI 2 1
 rR 1M 2 1
 tT 2 4 3
@@ -12,17 +10,38 @@ rR 100k 4 0
 rR 100k 4 6
 cC 50p 4 5
 cC 0.022u 6 7
-cC 0.022u 6 14
-pVolume 1M 8 9 1 a
+cC 0.022u 6 12
+pVolume 1M 8 18 1 a
 pTreble 1M 5 8 7 a
-pMiddle 25k 14 14 1 b
-pBass 250k 7 7 14 b
-rR 820 9 10
-tT 10 12 11
-rR 2.7k 11 1
-cC 22u 11 1
-rR 100k 12 0
-cC 0.001u 12 13
-rR 68k 13 1
-cC 0.001u 12 13
-oO 200 13 1
+pMiddle 25k 12 12 1 b
+pBass 250k 7 7 12 b
+tT 19 10 9
+rR 2.7k 9 1
+cC 22u 9 1
+rR 100k 10 0
+rR 68k 11 1
+cC 0.0022u 10 11
+oO 220 24 1
+cC 0.1u 23 13
+tT 13 14 20
+rR 1M 13 21
+cC 100p 14 16
+rR 1k 20 21
+rR 100k 14 0
+rR 220k 15 1
+cC 0.022u 14 15
+rR 39k 21 1
+rR 1M 21 21
+cC 0.1u 1 21
+tT 21 16 20
+rR 100k 16 0
+cC 0.022u 16 17
+rR 220k 17 1
+rR 820 18 19
+tT 11 23 22
+rR 100k 23 0
+rR 10k 22 1
+rR 1.5k 15 24
+rR 1.5k 17 24
+rR 1.5k 15 24
+rR 1.5k 17 24
