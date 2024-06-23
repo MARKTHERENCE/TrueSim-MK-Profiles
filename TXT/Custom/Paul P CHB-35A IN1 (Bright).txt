@@ -1,4 +1,4 @@
-# TrueSim circuit
+# TrueSim circuit, Paul P CHB-35A
 
 vV 120 0 1
 iI 2 1
@@ -10,10 +10,10 @@ cC 470n 4 1
 rR 2.2k 5 1
 cC 1u 5 1
 rR 47k 6 0
-cC 47n 6 22
+cC 47n 6 21
 cC 1n 6 7
 pGain 1M 7 8 1 a
-pBass 1M 22 7 7 b
+pBass 1M 21 7 7 b0
 rR 100k 8 9
 tT 9 10 11
 rR 1.5k 11 1
@@ -30,10 +30,19 @@ rR 100k 16 17
 rR 1M 17 1
 tT 17 19 18
 rR 1.5k 18 1
-cC 320n 18 23
-pPresence 5k 1 23 23 b
 rR 100k 19 0
 cC 22n 19 20
-pMaster 500k 20 21 1 100
-oO 200 21 1
+pMaster 500k 20 22 25 a
+oO 3 28 1
+tT 23 26 24
+rR 470k 22 23
+rR 4.7k 24 25
+rR 22k 26 0
+rR 22k 25 1
+cC 22n 26 27
+rR 220k 27 1
+cC 22n 25 29
+rR 220k 29 1
+rR 220k 27 28
+rR 220k 29 28
 cC 150p 7 8
