@@ -7,6 +7,7 @@ Only the preamp circuits are ported. You will need a 3rd party power amp sim aft
 - [Ignite Amps TPA-1]( https://www.igniteamps.com/#tpa-1 )
 - [NaLex PowerBox]( https://nalexsoftware.blogspot.com/2020/05/powerbox-poweramp.html )
 - [Nick Crow Lab TubeDriver]( https://nickcrowlab.blogspot.com/2009/08/tubedriver-v10.html )
+- ["Poweramp" section from deLuther's Genie]( https://guitarplayer.ru/guitar-studio/plaginy-st-rock/ )
 
 Refer to the [README.md from the Amplex-MK-Presets]( https://github.com/MARKTHERENCE/Amplex-MK-Presets/tree/main#setting-up-the-power-amp ) for instructions on how to set them up.
 
@@ -17,20 +18,25 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Marshall Vintage Modern 2266/2466
 - Paul P's Bogen CHB-35A Amp Conversion
 - Sovtek MIG-50
-- Trainwreck Liverpool*
+- Supro 1690T
+- Trainwreck Liverpool
 
 ## High Gain
 - Ceriatone Plexi 100 Super Lead Dookie Mod
+- MESA/Boogie Mark V (Channel 3)¹
 - Orange #4 TT15 Jim Root Terror
 
 ## Multi Channel
+- Cornford MK50 II
 - Gibson Super Goldtone GA Series
 - Ibanez Thermion TN120
 - Kitty Hawk Quattro Preamp
+- Krank Krankenstein
 - Laney Klipp 100
 - Peavey Triple XXX
 
-*Some amp models might need adjustment from the Input knob for accurate gain levels. Refer to the extra notes in the .txts themselves.
+### Notes
+¹ I intended to write all the channels but this amp model is quite CPU intensive in particular, even with x0.5 oversampling nor multithreading. This will be brought up to NaLex at some point.
 
 # Special Thanks
 - [Every person mentioned in the Special Thanks section of the README.md from the Amplex-MK-Presets repo]( https://github.com/MARKTHERENCE/Amplex-MK-Presets/tree/main#special-thanks )
