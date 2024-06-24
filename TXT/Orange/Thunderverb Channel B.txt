@@ -1,0 +1,38 @@
+# TrueSim circuit
+
+vV 250 0 1
+iI 2 1
+cC 220n 2 3
+rR 68k 3 4
+tT 4 6 5
+cC 22u 5 1
+rR 1.5k 5 1
+rR 100k 6 0
+cC 1n 6 7
+rR 220k 7 8
+rR 470k 8 1
+cC 56p 8 9
+tT 9 11 10
+cC 22u 10 1
+rR 2.2k 10 1
+rR 100k 11 0
+cC 4.7n 11 12
+rR 220k 12 13
+rR 470k 13 1
+tT 14 16 15
+cC 100u 15 1
+rR 820 15 1
+rR 100k 16 0
+rR 100k 16 17
+cC 56p 16 18
+cC 22n 17 19
+cC 22n 17 20
+rR 15k 20 1
+rR 220k 22 23
+cC 220n 23 24
+oO 20 24 1
+pVolume 500k 21 22 1 a
+pShape 500k 18 21 19 b
+pShapeB 500k 19 20 1 50
+pGain 1M 13 14 1 a
+pGainB 1M 8 9 1 100
