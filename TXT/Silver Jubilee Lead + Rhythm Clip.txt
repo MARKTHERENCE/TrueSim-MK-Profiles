@@ -1,0 +1,60 @@
+# TrueSim-MK-Profiles, Silver Jubilee
+
+# IMPORTANT!
+## For the intended "rhythm clip" effect (diode clipping), either adjust the Input gain by +6dB or the Input knob at 6 (1 o'clock).
+
+vV 250 0 1
+iI 2 1
+cC 0.047u 2 3
+rR 1M 3 1
+rR 68k 3 4
+tT 4 6 5
+cC 0.68u 5 1
+rR 2.7k 5 1
+rR 100k 6 0
+cC 47p 6 5
+cC 0.022u 6 7
+cC 0.001u 7 8
+rR 100k 8 31
+rR 220k 34 9
+rR 47k 9 10
+tT 10 12 11
+rR 1.5k 11 1
+rR 100k 12 0
+cC 0.1u 12 13
+rR 100k 13 14
+rR 10k 14 1
+cC 0.1u 14 15
+rR 1M 15 1
+tT 15 17 16
+rR 470 16 1
+rR 220k 17 0
+cC 4.7n 17 20
+cC 0.1u 17 18
+rR 100k 19 1
+rR 100k 20 21
+cC 220p 20 23
+cC 0.1u 21 22
+cC 0.01u 21 27
+rR 10k 22 25
+cC 470p 23 24
+rR 100k 25 26
+cC 2.2n 25 1
+cC 0.022u 29 30
+oO 100 30 1
+tT 31 33 32
+rR 1.5k 32 1
+rR 100k 33 0
+cC 470p 33 0
+cC 10u 32 1
+rR 47k 34 35
+rR 47k 36 10
+cC 0.022u 33 34
+rR 1M 10 13
+pBass 1M 26 26 1 a
+pBassB 1M 18 20 19 100
+pMid 100k 24 27 1 a
+pTreble 220k 23 28 25 b
+pMaster 1M 28 29 1 100
+pLeadMaster 220k 35 36 1 b
+pGain 1M 7 8 1 a

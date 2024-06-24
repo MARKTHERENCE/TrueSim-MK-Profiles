@@ -1,0 +1,55 @@
+# TrueSim-MK-Profiles, Silver Jubilee
+
+vV 250 0 1
+iI 2 1
+cC 0.047u 2 3
+rR 1M 3 1
+rR 68k 3 4
+tT 4 6 5
+cC 0.68u 5 1
+rR 2.7k 5 1
+rR 100k 6 0
+cC 47p 6 5
+cC 0.022u 6 7
+cC 0.001u 7 8
+rR 100k 8 29
+tT 35 10 9
+rR 1.5k 9 1
+rR 100k 10 0
+cC 0.1u 10 11
+rR 100k 11 12
+rR 10k 12 1
+cC 0.1u 12 13
+rR 1M 13 1
+tT 13 15 14
+rR 470 14 1
+rR 220k 15 0
+cC 4.7n 15 18
+cC 0.1u 15 16
+pBassB 1M 16 18 17 100
+rR 100k 17 1
+rR 100k 18 19
+cC 220p 18 21
+cC 0.1u 19 20
+cC 0.01u 19 25
+rR 10k 20 23
+cC 470p 21 22
+rR 100k 23 24
+cC 2.2n 23 1
+cC 0.022u 27 28
+oO 100 28 1
+tT 29 31 30
+rR 1.5k 30 1
+rR 100k 31 0
+cC 470p 31 0
+cC 10u 30 1
+rR 47k 32 33
+rR 47k 34 35
+cC 0.022u 31 32
+rR 1M 35 11
+pBass 1M 24 24 1 a
+pMid 100k 22 25 1 a
+pTreble 220k 21 26 23 b
+pMaster 1M 26 27 1 100
+pLeadMaster 220k 33 34 1 b
+pGain 1M 7 8 1 a
