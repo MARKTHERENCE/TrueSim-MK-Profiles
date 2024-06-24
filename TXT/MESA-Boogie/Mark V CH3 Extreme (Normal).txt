@@ -1,4 +1,4 @@
-# TrueSim circuit, Mark V
+# TrueSim-MK-Profiles, Mark V
 
 vV 117 0 1
 iI 2 1

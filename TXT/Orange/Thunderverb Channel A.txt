@@ -1,4 +1,4 @@
-# TrueSim circuit
+# TrueSim-MK-Profiles, Thunderverb
 
 vV 250 0 1
 iI 2 1

@@ -1,4 +1,4 @@
-# TrueSim circuit, 1690T
+# TrueSim-MK-Profiles, 1690T
 
 vV 115 0 1
 iI 2 1

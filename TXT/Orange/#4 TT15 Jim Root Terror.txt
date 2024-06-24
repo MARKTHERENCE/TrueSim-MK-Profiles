@@ -1,4 +1,4 @@
-# TrueSim circuit, #4 TT15 Jim Root Terror
+# TrueSim-MK-Profiles, #4 TT15 Jim Root Terror
 
 iI 2 1
 vV 115 0 1

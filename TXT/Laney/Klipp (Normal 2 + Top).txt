@@ -1,4 +1,4 @@
-# TrueSim circuit, Klipp
+# TrueSim-MK-Profiles, Klipp
 
 vV 230 0 1
 iI 16 1

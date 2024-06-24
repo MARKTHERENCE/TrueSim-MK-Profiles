@@ -1,4 +1,4 @@
-# TrueSim circuit, Vintage Modern
+# TrueSim-MK-Profiles, Vintage Modern
 
 vV 250 0 1
 iI 2 1

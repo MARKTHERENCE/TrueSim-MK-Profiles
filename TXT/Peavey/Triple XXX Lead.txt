@@ -1,4 +1,4 @@
-# TrueSim circuit, Triple XXX
+# TrueSim-MK-Profiles, Triple XXX
 
 vV 120 0 1
 iI 2 1

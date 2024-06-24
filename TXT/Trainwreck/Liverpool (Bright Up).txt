@@ -1,4 +1,4 @@
-# TrueSim circuit, Liverpool
+# TrueSim-MK-Profiles, Liverpool
 
 vV 331 0 1
 iI 2 1

@@ -1,4 +1,4 @@
-# TrueSim circuit, Paul P CHB-35A
+# TrueSim-MK-Profiles, Paul P CHB-35A
 
 vV 120 0 1
 iI 2 1
