@@ -33,6 +33,8 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Kitty Hawk Quattro Preamp
 - Krank Krankenstein
 - Laney Klipp 100
+- Orange Rockerverb
+- Orange Thunderverb
 - Peavey Triple XXX
 
 ### Notes
