@@ -33,12 +33,14 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Kitty Hawk Quattro Preamp
 - Krank Krankenstein
 - Laney Klipp 100
+- Marshall Silver Jubilee²
 - Orange Rockerverb
 - Orange Thunderverb
 - Peavey Triple XXX
 
 ### Notes
-¹ I intended to write all the channels but this amp model is quite CPU intensive in particular, even with x0.5 oversampling nor multithreading. This will be brought up to NaLex at some point.
+- I intended to write all the channels but this amp model is quite CPU intensive in particular, even with x0.5 oversampling nor multithreading. This will be brought up to NaLex at some point.¹
+- For the intended "rhythm clip" effect (diode clipping), either adjust the Input gain by +6dB or the Input knob at 6 (1 o'clock).²
 
 # Special Thanks
 - [Every person mentioned in the Special Thanks section of the README.md from the Amplex-MK-Presets repo]( https://github.com/MARKTHERENCE/Amplex-MK-Presets/tree/main#special-thanks )
