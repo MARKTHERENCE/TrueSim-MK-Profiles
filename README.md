@@ -23,7 +23,8 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 
 ## High Gain
 - Ceriatone Plexi 100 Super Lead Dookie Mod
-- MESA/Boogie Mark V (Channel 3)¹
+- MESA/Boogie Mark V (Channel 3)
+  - I intended to write all the channels but this amp model is quite CPU intensive in particular, even with x0.5 oversampling nor multithreading. This will be brought up to NaLex at some point.
 - Orange #4 TT15 Jim Root Terror
 
 ## Multi Channel
@@ -33,14 +34,14 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Kitty Hawk Quattro Preamp
 - Krank Krankenstein
 - Laney Klipp 100
-- Marshall Silver Jubilee²
+- Legend Rock 'n Roll Series
+  - The "1st & 2nd Stage" and "3rd Stage" circuits must be used together for the amp model to work as intended. This was done to compensate for the maximum number of visible pots that TrueSim could support.
+  - For the "Lead Mode" channel, adjust the Input gain by +6dB or the Input knob at 6 (1 o'clock), which is equivalent to a +18dB boost.
+- Marshall Silver Jubilee
+  - For the intended "rhythm clip" effect (diode clipping), adjust the Input knob at 6 (1 o'clock), which is equivalent to a +6dB boost.
 - Orange Rockerverb
 - Orange Thunderverb
 - Peavey Triple XXX
-
-### Notes
-- I intended to write all the channels but this amp model is quite CPU intensive in particular, even with x0.5 oversampling nor multithreading. This will be brought up to NaLex at some point.¹
-- For the intended "rhythm clip" effect (diode clipping), either adjust the Input gain by +6dB or the Input knob at 6 (1 o'clock).²
 
 # Special Thanks
 - [Every person mentioned in the Special Thanks section of the README.md from the Amplex-MK-Presets repo]( https://github.com/MARKTHERENCE/Amplex-MK-Presets/tree/main#special-thanks )
