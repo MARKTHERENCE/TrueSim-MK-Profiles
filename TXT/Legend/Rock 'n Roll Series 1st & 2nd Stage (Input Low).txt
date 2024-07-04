@@ -1,0 +1,47 @@
+# TrueSim-MK-Profiles, Rock 'n Roll Series
+
+# IMPORTANT!
+
+## This must be used alongside the "3rd Stage" circuit for the amp model to work as intended. It is done to compensate for the maximum number of visible pots that TrueSim could support.
+
+## For the "Lead Mode" channel, adjust the Input gain by +6dB or the Input knob at 6 (1 o'clock), which is equivalent to a +18dB boost.
+
+vV 120 0 1
+iI 2 1
+cC 0.022u 2 1
+rR 47k 2 3
+rR 680 2 1
+cC 0.022u 3 4
+rR 100k 4 1
+tT 4 6 5
+cC 0.68u 5 1
+rR 2.7k 5 1
+rR 100k 6 0
+cC 0.022u 6 7
+rR 470k 7 8
+cC 0.001u 7 8
+pClr.Gain 1M 8 9 1 b
+cC 0.001u 8 9
+pRhy.Drive 100k 9 24 10 b
+rR 1k 10 1
+tT 24 12 11
+rR 20k 11 1
+rR 100k 12 0
+cC 0.001u 12 1
+cC 0.022u 12 13
+rR 470k 13 14
+cC 500p 13 14
+rR 470k 14 1
+tT 14 16 15
+rR 820 15 1
+rR 100k 16 0
+tT 16 0 17
+rR 100k 17 1
+rR 33k 17 19
+cC 0.022u 19 22
+pBass 1M 22 22 21 b
+cC 0.022u 19 20
+pMid 20k 21 20 1 b
+cC 500p 17 18
+pTreble 200k 18 23 22 b
+oO 80 23 1
