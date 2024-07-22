@@ -1,0 +1,46 @@
+# TrueSim circuit
+
+vV 262 0 1
+iI 13 1
+rR 1M 2 1
+rR 56k 2 3
+tT 3 5 4
+cC 22u 4 1
+rR 1.5k 4 1
+rR 100k 5 0
+cC 47n 5 21
+pVolume 500k 6 6 1 a
+cC 120p 21 6
+cC 100n 23 7
+tT 7 11 9
+rR 1M 7 10
+rR 47k 10 1
+tT 8 12 9
+rR 1M 10 8
+cC 100n 8 1
+rR 1.2k 9 10
+cC 47p 11 12
+rR 100k 11 0
+rR 100k 12 0
+cC 100n 11 17
+cC 100n 12 18
+rR 10k 17 19
+pTone.Cut 220k 18 16 16 b
+rR 10k 18 14
+cC 4.7n 16 17
+pMaster.Vol 500k 14 14 19 a
+rR 1M 14 1
+rR 1M 14 1
+rR 3.3k 14 15
+rR 3.3k 14 15
+oO 30 15 1
+rR 10k 13 2
+cC 22p 2 1
+rR 3.3k 14 15
+rR 3.3k 14 15
+rR 220k 14 20
+rR 220k 14 1
+rR 1M 20 1
+rR 330k 21 6
+rR 470k 6 22
+rR 820k 22 23

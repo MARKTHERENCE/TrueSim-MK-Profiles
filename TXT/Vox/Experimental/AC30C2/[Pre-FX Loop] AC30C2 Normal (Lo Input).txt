@@ -1,0 +1,18 @@
+# TrueSim circuit
+
+vV 262 0 1
+iI 2 1
+rR 10k 2 3
+cC 22p 3 1
+rR 56k 3 4
+tT 4 6 5
+cC 22u 5 1
+rR 1.5k 5 1
+rR 100k 6 0
+cC 47n 6 8
+pVolume 500k 9 7 1 a
+cC 120p 8 7
+rR 470k 7 10
+rR 820k 10 11
+oO 6 11 1
+rR 330k 8 9
