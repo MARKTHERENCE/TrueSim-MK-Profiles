@@ -42,6 +42,8 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Orange Rockerverb
 - Orange Thunderverb
 - Peavey Triple XXX
+- Vox AC30 Custom (AC30C2)
+  - In the "Experimental" subfolder, there are dedicated circuits for the pre & post-FX Loop section. The reason they are experimental is that they have less gain as a result of the respective tube stages being disconnected from each other. I would just recommend using the complete circuits.
 
 # Special Thanks
 - [Every person mentioned in the Special Thanks section of the README.md from the Amplex-MK-Presets repo]( https://github.com/MARKTHERENCE/Amplex-MK-Presets/tree/main#special-thanks )
