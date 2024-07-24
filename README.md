@@ -43,6 +43,7 @@ This collection covers a wide range of amplifier types based on gain amount, voi
 - Orange Thunderverb
 - Peavey Triple XXX
 - Vox AC30 Custom (AC30C2)
+  - It will take approximately 5 seconds for the circuit to work at intended full volume. This is due to the way TrueSim behaves in regards to certain tube stages like cathode followers and phase inverters - this is confirmed by NaLex himself when I asked for his help with the Marshall Vintage Modern.
   - In the "Experimental" subfolder, there are dedicated circuits for the pre & post-FX Loop section. The reason they are experimental is that they have less gain as a result of the respective tube stages being disconnected from each other. I would just recommend using the complete circuits.
 
 # Special Thanks
