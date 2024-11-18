@@ -1,8 +1,6 @@
 # TrueSim-MK-Profiles
-Various amp schematics translated into .TXT files, made for the guitar amp sim plugin ~~"[TrueSim]( https://nalexsoftware.blogspot.com/2022/07/truesim-simulator.html )"~~ developed by ~~[NaLex Software]( https://nalexsoftware.blogspot.com )~~.
+Various amp schematics translated into .TXT files, made for the guitar amp sim plugin "[TrueSim]( https://nalexplugins.blogspot.com/2022/07/truesim-simulator.html )" developed by [NaLex Plugins]( https://nalexplugins.blogspot.com/ ).
 Circuits are made with TrueSimCircuit, potentiometer knobs are rearranged via text editing.
-
-#### UPDATE: As of September 4, 2024, NaLex's website has been removed again. Presuming that he is likely looking for another blogspot name (or possibly a new web domain), I will provide a [OneDrive mirror link]( https://1drv.ms/f/s!Aj2M95S7YBPBhH_gWiK2xNEVZpog?e=6VtpUj ) in the meantime. This already includes every version of TrueSim for compatibility reasons, TrueSimCircuit, and the stock circuits provided by NaLex himself.
 
 ## IMPORTANT!
 Only the preamp circuits are ported. You will need a 3rd party power amp sim after. Below are the ones I would recommend:
